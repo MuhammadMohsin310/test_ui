@@ -1,0 +1,13 @@
+com.example.untitled1.app-jetified-annotation-experimental-1.1.0-0 /Users/admin/.gradle/caches/transforms-3/0ee9e38e81120acb405b16317f88005e/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.untitled1.app-jetified-window-java-1.0.0-beta04-1 /Users/admin/.gradle/caches/transforms-3/52327bdbb6080289c26b0e652865ef2f/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.untitled1.app-jetified-window-1.0.0-beta04-2 /Users/admin/.gradle/caches/transforms-3/78fbd64af62dbdf102ba7c817970421b/transformed/jetified-window-1.0.0-beta04/res
+com.example.untitled1.app-core-1.6.0-3 /Users/admin/.gradle/caches/transforms-3/7c1d12144b2ebda7a6da3814a09658ad/transformed/core-1.6.0/res
+com.example.untitled1.app-debug-4 /Users/admin/StudioProjects/test_app/android/app/src/debug/res
+com.example.untitled1.app-main-5 /Users/admin/StudioProjects/test_app/android/app/src/main/res
+com.example.untitled1.app-pngs-6 /Users/admin/StudioProjects/test_app/build/app/generated/res/pngs/debug
+com.example.untitled1.app-resValues-7 /Users/admin/StudioProjects/test_app/build/app/generated/res/resValues/debug
+com.example.untitled1.app-rs-8 /Users/admin/StudioProjects/test_app/build/app/generated/res/rs/debug
+com.example.untitled1.app-mergeDebugResources-9 /Users/admin/StudioProjects/test_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.untitled1.app-mergeDebugResources-10 /Users/admin/StudioProjects/test_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.untitled1.app-merged_res-11 /Users/admin/StudioProjects/test_app/build/app/intermediates/merged_res/debug
+com.example.untitled1.app-packaged_res-12 /Users/admin/StudioProjects/test_app/build/path_provider_android/intermediates/packaged_res/debug
